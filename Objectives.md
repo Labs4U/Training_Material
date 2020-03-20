@@ -1,25 +1,60 @@
 # Introducing Amazon Web Services
+```
+introduction
+```
+
 # AWS Global Infrastructure Overview
+```
+introduction
+```
 
 # Virtual Private Cloud (VPC) Overview
-# 
-# 
-# Elasticity and Scalability Concepts
-# Disaster Recovery Strategies
-# 
-# AWS Virtual Network Services
-# AWS  Database Design & Deployement
-# 
-# Encryption and Key Management
-# AWS Security Best Practices
-# Access Control
-# 
-# 
-# AWS  AutoScaling /Load Balancing
-# 
-# Cost Effective Resources
-# AWS CLI
+```
+introduction
+```
 
+# Elasticity and Scalability Concepts
+```
+introduction
+```
+# Disaster Recovery Strategies
+```
+introduction
+```
+
+# AWS Virtual Network Services
+```
+introduction
+```
+# AWS  Database Design & Deployement
+```
+introduction
+```
+ 
+# Encryption and Key Management
+```
+introduction
+```
+# AWS Security Best Practices
+```
+introduction
+```
+# Access Control
+```
+introduction
+```
+# AWS  AutoScaling /Load Balancing
+```
+introduction
+```
+# Cost Effective Resources
+```
+introduction
+```
+# AWS CLI
+```
+introduction
+```
 
 # Glossary :
 ```
